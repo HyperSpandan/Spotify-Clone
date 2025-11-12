@@ -1,1 +1,1 @@
-
+This are the assets used in the webpage.
